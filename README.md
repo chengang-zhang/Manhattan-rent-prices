@@ -29,4 +29,9 @@ Final project for the data analysis course, Data Bootcamp, at NYU Stern
   </ul>
 </ul>
   
+## Credits:
+<ul>
+  <li>Data from https://www.kaggle.com/zohaib30/streeteasy-dataset </li>
+  <li>Partners: Esther Wu and Richard Li</li>
+</ul>
   
